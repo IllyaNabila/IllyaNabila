@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Introduction
 
-<!--
-**IllyaNabila/IllyaNabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I’m **Illya Nabila**, a curious and creative final year Software Engineering student currently exploring the world of **Software Maintenance and Evolution** 🚀
 
-Here are some ideas to get you started:
+I’m fascinated by how software grows, changes, and adapts over time — kind of like living organisms that need care and updates to stay healthy 🧩. Through this course, I hope to sharpen my understanding of **modern maintenance strategies**, **legacy system handling**, and how to **keep software sustainable and reliable** for years to come.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 A Bit More About Me
+
+* 💻 Passionate about full-stack development, especially using **Next.js**, **Express**, and **MongoDB**
+* 🤖 Interested in **AI-driven systems**, recommender systems, and green technology 🌿
+* 🧠 I enjoy debugging (most of the time) — it feels like detective work for code!
+* ✨ Currently working on several projects including **B2B Recommender System** and **E-invoice platform**
+* ☕ I run on a steady supply of caffeine and lo-fi beats 🎧
+
+---
+
+## 📸 That’s Me!
+
+![Illya Nabila](https://github.com/user-attachments/assets/d04365e2-7612-447a-b4b1-293ae6985912)
+
+
+> Always ready to learn something new — one commit at a time 💡
+
+---
+
+## 🌐 GitHub Profile
+
+Check out my personal projects and repositories 👉 [**@IllyaNabila**](https://github.com/IllyaNabila)
+
+---
+
+## 🎯 Fun Fact
+
+I believe every old piece of code has a story — and maintaining it is like time-traveling through someone else’s logic ✨

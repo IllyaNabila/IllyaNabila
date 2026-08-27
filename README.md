@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Illya Nabila!
 
-**First-Class Software Engineering Graduate** | **Full-Stack Developer** | **Ex-AirAsia & Tricubes** 🚀
+**Software Engineering Graduate** | **Full-Stack Developer** | **Ex-AirAsia & Tricubes** 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/](https://www.linkedin.com/in/illya-nabila-mohd-nor-47564728b/))
 [![Email](https://img.shields.io/badge/Email-illyanabila%40gmail.com-red?style=flat&logo=gmail)](mailto:illyanabila@gmail.com)

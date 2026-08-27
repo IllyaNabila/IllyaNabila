@@ -10,9 +10,9 @@
 
 ## 🌟 About Me
 
-First-Class Software Engineering graduate from **Universiti Malaya (CGPA: 3.72)** with end-to-end production experience across full-stack web, mobile ecosystems, AI/NLP services, and system refactoring.
+First-Class Software Engineering graduate from **Universiti Malaya** with end-to-end production experience across full-stack web, mobile ecosystems, AI/NLP services, and system refactoring.
 
-- 🎓 **Education**: B.Comp.Sc. (Software Engineering), Universiti Malaya — 4x Dean's List Awardee (GPA up to 4.00)
+- 🎓 **Education**: B.Comp.Sc. (Software Engineering), Universiti Malaya — 4x Dean's List Awardee.
 - 💼 **Experience**:
   - **Software Engineer I (OJT) @ AirAsia**: Architected & deployed an enterprise project management tool for 200+ users using Next.js, NestJS, Prisma & GCP.
   - **Software Engineer (Part-Time & Intern) @ Tricubes**: Engineered features for nation's E-Invoicing platforms (React, Node.js).

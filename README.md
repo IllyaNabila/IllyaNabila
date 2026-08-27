@@ -37,7 +37,7 @@ First-Class Software Engineering graduate from **Universiti Malaya** with end-to
 
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **AirAsia Project Management Platform** | Enterprise solution supporting 200+ users; resource capacity, temporal-locked timesheet submissions, and automated ingestion pipelines. | Next.js, NestJS, PostgreSQL, Prisma, GCP |
+| **Sphere360 - AirAsia Project Management Platform** | Enterprise solution supporting 200+ users; resource capacity, temporal-locked timesheet submissions, and automated ingestion pipelines. | Next.js, NestJS, PostgreSQL, Prisma, GCP |
 | **ApparelBiz (FYP)** | Cross-border B2B matching engine with a hybrid AI pipeline (Sentence-Transformers embeddings, cosine similarity, FastAPI endpoints). | Next.js, Node.js, FastAPI, MongoDB |
 | **E-Invoicing Mobile & Web** | HMS push notification integration for Huawei devices and portal bug-fixing & UI optimization. | React Native, ReactJS, TypeScript, C#, Azure DevOps |
 
